@@ -6,14 +6,14 @@
 
 ### The goal is to teach basic syntax, programming ideologies and writing quick scripts with Python.
 
-### The course instructor will **Aadithya Varma**.
+### The course instructor will be **Aadithya Varma**.
 
 <hr />
 
 ## ✨ Pre-requisites ✨
 
 - Completed the Python Fundamentals course before attending this class
-- Dedicated to spending time and learn Python during the live course
+- Dedicated to spending time to learn Python during the live course
 - Basic googling skills or using ChatGPT to get answers
 - Must have installed Python in your system (**Preferably use IDE like VSCode**)
 - Basics of git if you want to clone this repo to follow the course in your local environment
