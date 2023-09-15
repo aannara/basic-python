@@ -1,4 +1,5 @@
 *.bundle.*
+.venv
 lib/
 node_modules/
 .yarn-packages/
