@@ -17,7 +17,7 @@
 - Completed the Python Fundamentals course before attending this class
 - Dedicated to spending time to learn Python during the live course
 - Basic googling skills or using ChatGPT to get answers
-- Must have installed Python in your system (**Preferably use IDE like VSCode**)
+- Must have installed Python in your system
 - Basics of git if you want to clone this repo to follow the course in your local environment
 
 <hr />
@@ -33,6 +33,18 @@
 ## ✨ Get started ✨
 
 ### Use this link to get started in your own browser: **[Basic Python course materials](https://aannara.github.io/basic-python)**
+
+### **OR**
+
+### Run the course contents on your local environment
+
+1. Make sure you have Python installed. Follow the guide in the official Python documentation on how to do it for different operating systems: [Windows](https://docs.python.org/3/using/windows.html#installation-steps), [Mac](https://docs.python.org/3/using/mac.html#getting-and-installing-macpython), or [Unix](https://docs.python.org/3/using/unix.html#getting-and-installing-the-latest-version-of-python) systems.
+2. Make sure you have [Git](https://git-scm.com/downloads) installed. Clone this repository: `git clone https://github.com/aannara/basic-python.git`
+3. Change directory to the new one: `cd basic-python`
+4. Recommended creating a virtual environment to install the dependencies: `python -m venv .venv`
+5. Activate virtual environment: On Windows `.venv\Scripts\activate` and on Linux `source .venv/bin/activate`
+6. Install all the dependencies in the virtual environment: `pip install -r requirements.txt`
+7. Run Jupyter Lab: `jupyter lab`
 
 <br />
 
