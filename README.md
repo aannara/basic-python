@@ -6,6 +6,8 @@
 
 ### The goal is to teach basic syntax, programming ideologies and writing quick scripts with Python.
 
+### By the end of the class you will be familiar with most Python concepts and will be ready to start coding in Python.
+
 ### The course instructor will be **Aadithya Varma**.
 
 <hr />
@@ -22,7 +24,7 @@
 
 ## ✨ What to expect from the course ✨
 
-- Understand basic usage of Python
+- Understand most concepts in Python
 - Understand Python programming ideologies
 - Write quick scripts using Python
 
@@ -45,7 +47,7 @@
 🎓 Masters in Software Engineering and another Masters in Artificial Intelligence and Machine Learning
 🛠️ Worked on backend application development, DevOps, SCM tools and BigData analysis
 🌟 Loves to build clean, efficient and scalable systems
-😃 Outside of work, I spend my time playing games, watching Anime and TV shows
+😃 Outside of work, I spend my time playing games, watching anime and TV shows
 </pre>
 
 <hr />
