@@ -28,7 +28,7 @@ jupyterlab-tour
 # JupyterLab: dark theme
 jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
-jupyterlab_miami_nights
+# jupyterlab_miami_nights
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.0.0,<9
@@ -50,3 +50,5 @@ bqplot
 
 # Black
 black[jupyter]
+# Pytest
+pytest
